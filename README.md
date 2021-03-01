@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tdev.tebex.io)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/mZskAxwG5r)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Tevichu/Tevichu/master/gifs/coder.gif" />
+
 
 ### Talking about Personal Stuffs:
 
@@ -41,10 +41,4 @@
 </details>
 
 
-#
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
