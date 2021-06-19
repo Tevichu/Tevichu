@@ -10,7 +10,6 @@
 - 🛠 &nbsp; I’m currently working with Lua, HTML, Css, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Tevichu).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Tevichu/Tevichu/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: tevichu@gmail.com or Tevichu#9147 in discord
 
 ### Languages and Tools:
